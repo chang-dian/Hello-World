@@ -1,7 +1,7 @@
 <html>
     <body>
         <script>
-            alert("我的第一个javascript程序");
+            alert("Hello JavaScript");
   </script>
     </body>
 </html>
